@@ -4,22 +4,22 @@
  "fields": [
   {
    "name": "active_alerts_ga",
-   "path": "payload.active_alerts_ga",
+   "path": "active_alerts_ga",
    "unit": "count"
   },
   {
    "name": "noaa_wx_ch1_khz",
-   "path": "payload.noaa_wx_ch1_khz",
+   "path": "noaa_wx_ch1_khz",
    "unit": "kHz"
   },
   {
    "name": "marine_ch16_khz",
-   "path": "payload.marine_ch16_khz",
+   "path": "marine_ch16_khz",
    "unit": "kHz"
   },
   {
    "name": "guard_khz",
-   "path": "payload.guard_khz",
+   "path": "guard_khz",
    "unit": "kHz"
   }
  ],
