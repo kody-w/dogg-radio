@@ -1,0 +1,31 @@
+{
+ "schema": "dogg/0-mission",
+ "dimension": "radio:@kody-w/dogg-radio",
+ "fields": [
+  {
+   "name": "active_alerts_ga",
+   "path": "payload.active_alerts_ga",
+   "unit": "count"
+  },
+  {
+   "name": "noaa_wx_ch1_khz",
+   "path": "payload.noaa_wx_ch1_khz",
+   "unit": "kHz"
+  },
+  {
+   "name": "marine_ch16_khz",
+   "path": "payload.marine_ch16_khz",
+   "unit": "kHz"
+  },
+  {
+   "name": "guard_khz",
+   "path": "payload.guard_khz",
+   "unit": "kHz"
+  }
+ ],
+ "default": [
+  "active_alerts_ga",
+  "noaa_wx_ch1_khz",
+  "marine_ch16_khz"
+ ]
+}
