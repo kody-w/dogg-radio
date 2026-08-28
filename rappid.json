@@ -1,0 +1,13 @@
+{
+  "schema": "rapp/1",
+  "rappid": "rappid:@kody-w/dogg-radio:0018b1927295931ebd23f54122f628afd0d044d7fbb74806a60f882b93cf4082",
+  "kind": "node",
+  "name": "dogg-radio",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "dogg-radio",
+  "github": "https://github.com/kody-w/dogg-radio",
+  "parent_rappid": "rappid:@kody-w/dogg:398899d4c850bc28fabe33115c52436def0d485c34753e9bbef06e4c283892b4",
+  "minted_at": "2026-08-28T17:48:21Z",
+  "notes": "Federated node of the global tick network; descends from the spine thread. Minted once per RAPP spec §6.2 — uuid-entropy tail, never a name-hash."
+}
