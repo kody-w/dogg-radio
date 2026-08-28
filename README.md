@@ -59,3 +59,19 @@ can find it.
 <!--trust-->
 No ratings yet — used this chain? [Rate it](../../issues/new?template=rate.yml): valid ratings publish automatically as verifiable frames.
 <!--/trust-->
+
+## Summon this node
+
+A MISSION chant — 14 words — carries the `radio:@kody-w/dogg-radio` dimension's identity, its tick, a hash prefix that pins the exact frame, and a quantized snapshot of active_alerts_ga, noaa_wx_ch1_khz, marine_ch16_khz.
+
+```
+KNELL CAST WEFT GLEAM FORGE BRAVE ASH ANVIL ELIXIR LORE LOFT LEFT EMERGE MALICE
+```
+
+`dogg:1:14:BIALiNAAAUYKwB0kmIqiHgDf`
+
+Tap to decode: [https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALiNAAAUYKwB0kmIqiHgDf](https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALiNAAAUYKwB0kmIqiHgDf)
+
+This chant carries three things: which dimension it names (`radio:@kody-w/dogg-radio`), which tick and frame it was cut from (tick 1, hash prefix `1182b`), and the field values above, quantized (log-quantized, ~0.3% relative (1e-6 … 1e15)) — enough to recognize the node and sanity-check a claim about it without touching the network.
+
+This is a snapshot of one tick (tick 1) — the numbers move as the stream advances, so re-mint with `python3 tools/dogg.py mission radio:@kody-w/dogg-radio` for the latest.
