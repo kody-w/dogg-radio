@@ -1,0 +1,80 @@
+{
+  "spec": "rapp/1",
+  "kind": "radio.snapshot",
+  "stream_id": "radio:@kody-w/dogg-radio",
+  "seq": 44,
+  "utc": "2026-09-04T23:54:09.854Z",
+  "payload": {
+    "tick": 842,
+    "tick_frame": "c92d807ebdfc1f6e2e424e391c52644930142290410e1ed3ab92d8cb9f79623c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-04T23:54:09.854Z",
+    "frequencies": {
+      "noaa_wx": {
+        "band": "162.400-162.550",
+        "unit": "MHz",
+        "channels": {
+          "WX1": "162.550",
+          "WX2": "162.400",
+          "WX3": "162.475",
+          "WX4": "162.425",
+          "WX5": "162.450",
+          "WX6": "162.500",
+          "WX7": "162.525"
+        }
+      },
+      "frs_gmrs": {
+        "unit": "MHz",
+        "channels": {
+          "1": "462.5625",
+          "2": "462.5875",
+          "3": "462.6125",
+          "4": "462.6375",
+          "5": "462.6625",
+          "6": "462.6875",
+          "7": "462.7125",
+          "8": "467.5625",
+          "9": "467.5875",
+          "10": "467.6125",
+          "11": "467.6375",
+          "12": "467.6625",
+          "13": "467.6875",
+          "14": "467.7125",
+          "15": "462.5500",
+          "16": "462.5750",
+          "17": "462.6000",
+          "18": "462.6250",
+          "19": "462.6500",
+          "20": "462.6750",
+          "21": "462.7000",
+          "22": "462.7250"
+        }
+      },
+      "marine_vhf": {
+        "ch16_mhz": "156.800",
+        "note": "international distress/safety/calling"
+      },
+      "aviation_guard": {
+        "mhz": "121.500",
+        "note": "civil aviation emergency guard"
+      },
+      "cb": {
+        "ch9_mhz": "27.065",
+        "note": "27 MHz Citizens Band emergency/traveler channel"
+      }
+    },
+    "alerts": {
+      "active_count": 7
+    },
+    "active_alerts_ga": 7,
+    "noaa_wx_ch1_khz": 162400,
+    "marine_ch16_khz": 156800,
+    "guard_khz": 121500,
+    "sources_failed": []
+  },
+  "payload_hash": "2c59a912c9bc4d219019512bec4cc5f7a48224b653cd457f86b9765e73665ea8",
+  "prev": "3e7e469ad9e8c1e55fb310764369c2290c118759452deee2220abca9a724bf9c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ec91528a517f8c8a68ab3718d511b9ff557e0d74937ff32e41d8f825fa4a0c99"
+}
