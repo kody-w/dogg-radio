@@ -1,8 +1,8 @@
 {
-  "count": 49,
+  "count": 50,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "radio:@kody-w/dogg-radio",
-  "head_frame": "b3086c27a7a9e2407621a0ac20ad6a1fb5a7cdc1cb28acc4ff278f0886f3b903",
-  "updated": "2026-09-05T15:54:37.279Z"
+  "head_frame": "064b89f91127c24233bc41a0840e3287ff05bc89dcfc6ebc23018aeb5369d50a",
+  "updated": "2026-09-05T18:05:52.326Z"
 }
